@@ -1,6 +1,6 @@
 # Hackaday Sample Crash Handler
 
-Crash with purpose: a small example crash handling module in C to have useful error output when things go wrong. Check out [the Hackaday article on the subject]() for more information.
+Crash with purpose: a small example crash handling module in C to have useful error output when things go wrong. Check out [the Hackaday article on the subject][link_to_article] for more information.
 
 On crash, the code will print your custom error message along with some details that looks something like this:
 
@@ -67,4 +67,4 @@ Now you will only get your custom error message as output:
 check for value failed: 132
 ```
 
-
+[link_to_article]: https://hackaday.com/2019/01/22/crash-your-code-lessons-learned-from-debugging-things-that-should-never-happen/
